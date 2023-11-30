@@ -1,7 +1,5 @@
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Iterator;
 import java.util.logging.*;
 
 public class Main {
@@ -15,8 +13,7 @@ public class Main {
         }
     }
 
-    public Main() throws IOException {
-    }
+
 
     public static void main(String[] args) throws IOException {
 
