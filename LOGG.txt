@@ -1,0 +1,1180 @@
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 0 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 0: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 1 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 1: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 2 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 2: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 3 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 3: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 4 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 4: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 5 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 5: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 6 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 6: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 7 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 7: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 8 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 8: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 9 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 9: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 10 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 10: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 11 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 11: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 12 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 12: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 13 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 13: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 14 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 14: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 15 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 15: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 16 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 16: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 17 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 17: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 18 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 18: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 19 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 19: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 20 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 20: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 21 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 21: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 22 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 22: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 23 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 23: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 24 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 24: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 25 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 25: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 26 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 26: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 27 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 27: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 28 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 28: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 29 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 29: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 30 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 30: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 31 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 31: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 32 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 32: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 33 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 33: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 34 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 34: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 35 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 35: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 36 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 36: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 37 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 37: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 38 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 38: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 39 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 39: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 40 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 40: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 41 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 41: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 42 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 42: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 43 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 43: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 44 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 44: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 45 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 45: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 46 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 46: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 47 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 47: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 48 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 48: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 49 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 49: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+FINE: 50 is dividable by 2
+Oct 19, 2023 12:43:25 PM Main isString
+WARNING: 50: is not a String type
+Oct 19, 2023 12:43:25 PM Main isNumber
+SEVERE: Shenanigans is not a number
+Oct 19, 2023 12:43:25 PM Main isString
+INFO: String: Shenanigans
+Oct 19, 2023 12:43:25 PM Main isNumber
+SEVERE: Bamboozle is not a number
+Oct 19, 2023 12:43:25 PM Main isString
+INFO: String: Bamboozle
+Oct 19, 2023 12:43:25 PM Main isNumber
+SEVERE: Bodacious is not a number
+Oct 19, 2023 12:43:25 PM Main isString
+INFO: String: Bodacious
+Oct 19, 2023 12:43:25 PM Main isNumber
+SEVERE: Brouhaha is not a number
+Oct 19, 2023 12:43:25 PM Main isString
+INFO: String: Brouhaha
+Oct 19, 2023 12:43:25 PM Main isNumber
+SEVERE: Canoodle is not a number
+Oct 19, 2023 12:43:25 PM Main isString
+INFO: String: Canoodle
+Oct 19, 2023 12:43:25 PM Main isNumber
+SEVERE: Gnarly is not a number
+Oct 19, 2023 12:43:25 PM Main isString
+INFO: String: Gnarly
+Oct 19, 2023 12:43:25 PM Main isNumber
+SEVERE: Goggle is not a number
+Oct 19, 2023 12:43:25 PM Main isString
+INFO: String: Goggle
+Oct 19, 2023 12:43:25 PM Main isNumber
+SEVERE: Gubbins is not a number
+Oct 19, 2023 12:43:25 PM Main isString
+INFO: String: Gubbins
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 0 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 0: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 1 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 1: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 2 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 2: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 3 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 3: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 4 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 4: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 5 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 5: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 6 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 6: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 7 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 7: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 8 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 8: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 9 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 9: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 10 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 10: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 11 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 11: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 12 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 12: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 13 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 13: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 14 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 14: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 15 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 15: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 16 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 16: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 17 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 17: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 18 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 18: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 19 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 19: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 20 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 20: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 21 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 21: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 22 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 22: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 23 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 23: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 24 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 24: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 25 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 25: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 26 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 26: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 27 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 27: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 28 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 28: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 29 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 29: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 30 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 30: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 31 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 31: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 32 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 32: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 33 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 33: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 34 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 34: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 35 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 35: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 36 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 36: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 37 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 37: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 38 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 38: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 39 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 39: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 40 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 40: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 41 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 41: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 42 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 42: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 43 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 43: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 44 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 44: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 45 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 45: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 46 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 46: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 47 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 47: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 48 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 48: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 49 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 49: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+FINE: 50 is dividable by 2
+Oct 19, 2023 1:09:25 PM Main isString
+WARNING: 50: is not a String type
+Oct 19, 2023 1:09:25 PM Main isNumber
+SEVERE: Shenanigans is not a number
+Oct 19, 2023 1:09:25 PM Main isString
+INFO: String: Shenanigans
+Oct 19, 2023 1:09:25 PM Main isNumber
+SEVERE: Bamboozle is not a number
+Oct 19, 2023 1:09:25 PM Main isString
+INFO: String: Bamboozle
+Oct 19, 2023 1:09:25 PM Main isNumber
+SEVERE: Bodacious is not a number
+Oct 19, 2023 1:09:25 PM Main isString
+INFO: String: Bodacious
+Oct 19, 2023 1:09:25 PM Main isNumber
+SEVERE: Brouhaha is not a number
+Oct 19, 2023 1:09:25 PM Main isString
+INFO: String: Brouhaha
+Oct 19, 2023 1:09:25 PM Main isNumber
+SEVERE: Canoodle is not a number
+Oct 19, 2023 1:09:25 PM Main isString
+INFO: String: Canoodle
+Oct 19, 2023 1:09:25 PM Main isNumber
+SEVERE: Gnarly is not a number
+Oct 19, 2023 1:09:25 PM Main isString
+INFO: String: Gnarly
+Oct 19, 2023 1:09:25 PM Main isNumber
+SEVERE: Goggle is not a number
+Oct 19, 2023 1:09:25 PM Main isString
+INFO: String: Goggle
+Oct 19, 2023 1:09:25 PM Main isNumber
+SEVERE: Gubbins is not a number
+Oct 19, 2023 1:09:25 PM Main isString
+INFO: String: Gubbins
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 0 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 0: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 1 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 1: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 2 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 2: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 3 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 3: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 4 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 4: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 5 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 5: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 6 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 6: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 7 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 7: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 8 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 8: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 9 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 9: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 10 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 10: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 11 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 11: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 12 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 12: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 13 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 13: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 14 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 14: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 15 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 15: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 16 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 16: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 17 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 17: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 18 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 18: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 19 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 19: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 20 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 20: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 21 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 21: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 22 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 22: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 23 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 23: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 24 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 24: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 25 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 25: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 26 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 26: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 27 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 27: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 28 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 28: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 29 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 29: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 30 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 30: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 31 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 31: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 32 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 32: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 33 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 33: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 34 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 34: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 35 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 35: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 36 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 36: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 37 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 37: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 38 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 38: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 39 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 39: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 40 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 40: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 41 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 41: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 42 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 42: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 43 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 43: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 44 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 44: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 45 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 45: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 46 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 46: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 47 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 47: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 48 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 48: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 49 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 49: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+FINE: 50 is dividable by 2
+Nov 29, 2023 11:49:12 PM Main isString
+WARNING: 50: is not a String type
+Nov 29, 2023 11:49:12 PM Main isNumber
+SEVERE: Shenanigans is not a number
+Nov 29, 2023 11:49:12 PM Main isString
+INFO: String: Shenanigans
+Nov 29, 2023 11:49:12 PM Main isNumber
+SEVERE: Bamboozle is not a number
+Nov 29, 2023 11:49:12 PM Main isString
+INFO: String: Bamboozle
+Nov 29, 2023 11:49:12 PM Main isNumber
+SEVERE: Bodacious is not a number
+Nov 29, 2023 11:49:12 PM Main isString
+INFO: String: Bodacious
+Nov 29, 2023 11:49:12 PM Main isNumber
+SEVERE: Brouhaha is not a number
+Nov 29, 2023 11:49:12 PM Main isString
+INFO: String: Brouhaha
+Nov 29, 2023 11:49:12 PM Main isNumber
+SEVERE: Canoodle is not a number
+Nov 29, 2023 11:49:12 PM Main isString
+INFO: String: Canoodle
+Nov 29, 2023 11:49:12 PM Main isNumber
+SEVERE: Gnarly is not a number
+Nov 29, 2023 11:49:12 PM Main isString
+INFO: String: Gnarly
+Nov 29, 2023 11:49:12 PM Main isNumber
+SEVERE: Goggle is not a number
+Nov 29, 2023 11:49:12 PM Main isString
+INFO: String: Goggle
+Nov 29, 2023 11:49:12 PM Main isNumber
+SEVERE: Gubbins is not a number
+Nov 29, 2023 11:49:12 PM Main isString
+INFO: String: Gubbins
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 0 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 0: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 1 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 1: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 2 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 2: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 3 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 3: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 4 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 4: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 5 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 5: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 6 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 6: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 7 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 7: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 8 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 8: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 9 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 9: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 10 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 10: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 11 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 11: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 12 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 12: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 13 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 13: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 14 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 14: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 15 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 15: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 16 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 16: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 17 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 17: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 18 is dividable by 2
+Nov 30, 2023 4:54:58 AM Main isString
+WARNING: 18: is not a String type
+Nov 30, 2023 4:54:58 AM Main isNumber
+FINE: 19 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 19: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 20 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 20: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 21 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 21: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 22 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 22: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 23 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 23: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 24 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 24: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 25 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 25: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 26 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 26: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 27 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 27: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 28 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 28: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 29 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 29: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 30 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 30: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 31 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 31: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 32 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 32: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 33 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 33: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 34 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 34: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 35 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 35: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 36 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 36: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 37 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 37: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 38 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 38: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 39 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 39: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 40 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 40: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 41 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 41: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 42 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 42: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 43 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 43: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 44 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 44: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 45 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 45: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 46 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 46: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 47 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 47: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 48 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 48: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 49 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 49: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+FINE: 50 is dividable by 2
+Nov 30, 2023 4:54:59 AM Main isString
+WARNING: 50: is not a String type
+Nov 30, 2023 4:54:59 AM Main isNumber
+SEVERE: Shenanigans is not a number
+Nov 30, 2023 4:54:59 AM Main isString
+INFO: String: Shenanigans
+Nov 30, 2023 4:54:59 AM Main isNumber
+SEVERE: Bamboozle is not a number
+Nov 30, 2023 4:54:59 AM Main isString
+INFO: String: Bamboozle
+Nov 30, 2023 4:54:59 AM Main isNumber
+SEVERE: Bodacious is not a number
+Nov 30, 2023 4:54:59 AM Main isString
+INFO: String: Bodacious
+Nov 30, 2023 4:54:59 AM Main isNumber
+SEVERE: Brouhaha is not a number
+Nov 30, 2023 4:54:59 AM Main isString
+INFO: String: Brouhaha
+Nov 30, 2023 4:54:59 AM Main isNumber
+SEVERE: Canoodle is not a number
+Nov 30, 2023 4:54:59 AM Main isString
+INFO: String: Canoodle
+Nov 30, 2023 4:54:59 AM Main isNumber
+SEVERE: Gnarly is not a number
+Nov 30, 2023 4:54:59 AM Main isString
+INFO: String: Gnarly
+Nov 30, 2023 4:54:59 AM Main isNumber
+SEVERE: Goggle is not a number
+Nov 30, 2023 4:54:59 AM Main isString
+INFO: String: Goggle
+Nov 30, 2023 4:54:59 AM Main isNumber
+SEVERE: Gubbins is not a number
+Nov 30, 2023 4:54:59 AM Main isString
+INFO: String: Gubbins
+Nov 30, 2023 4:59:17 AM Main isNumber
+FINE: 0 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 0: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 1 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 1: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 2 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 2: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 3 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 3: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 4 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 4: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 5 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 5: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 6 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 6: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 7 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 7: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 8 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 8: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 9 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 9: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 10 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 10: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 11 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 11: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 12 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 12: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 13 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 13: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 14 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 14: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 15 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 15: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 16 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 16: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 17 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 17: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 18 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 18: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 19 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 19: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 20 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 20: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 21 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 21: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 22 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 22: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 23 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 23: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 24 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 24: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 25 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 25: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 26 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 26: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 27 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 27: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 28 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 28: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 29 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 29: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 30 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 30: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 31 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 31: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 32 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 32: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 33 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 33: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 34 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 34: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 35 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 35: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 36 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 36: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 37 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 37: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 38 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 38: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 39 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 39: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 40 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 40: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 41 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 41: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 42 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 42: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 43 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 43: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 44 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 44: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 45 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 45: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 46 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 46: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 47 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 47: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 48 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 48: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 49 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 49: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+FINE: 50 is dividable by 2
+Nov 30, 2023 4:59:18 AM Main isString
+WARNING: 50: is not a String type
+Nov 30, 2023 4:59:18 AM Main isNumber
+SEVERE: Shenanigans is not a number
+Nov 30, 2023 4:59:18 AM Main isString
+INFO: String: Shenanigans
+Nov 30, 2023 4:59:18 AM Main isNumber
+SEVERE: Bamboozle is not a number
+Nov 30, 2023 4:59:18 AM Main isString
+INFO: String: Bamboozle
+Nov 30, 2023 4:59:18 AM Main isNumber
+SEVERE: Bodacious is not a number
+Nov 30, 2023 4:59:18 AM Main isString
+INFO: String: Bodacious
+Nov 30, 2023 4:59:18 AM Main isNumber
+SEVERE: Brouhaha is not a number
+Nov 30, 2023 4:59:18 AM Main isString
+INFO: String: Brouhaha
+Nov 30, 2023 4:59:18 AM Main isNumber
+SEVERE: Canoodle is not a number
+Nov 30, 2023 4:59:18 AM Main isString
+INFO: String: Canoodle
+Nov 30, 2023 4:59:18 AM Main isNumber
+SEVERE: Gnarly is not a number
+Nov 30, 2023 4:59:18 AM Main isString
+INFO: String: Gnarly
+Nov 30, 2023 4:59:18 AM Main isNumber
+SEVERE: Goggle is not a number
+Nov 30, 2023 4:59:18 AM Main isString
+INFO: String: Goggle
+Nov 30, 2023 4:59:18 AM Main isNumber
+SEVERE: Gubbins is not a number
+Nov 30, 2023 4:59:18 AM Main isString
+INFO: String: Gubbins
